@@ -1,4 +1,15 @@
-table,
+html {
+  background: #0fc807;
+}
+table {
+  border-collapse: collapse;
+  background: white;
+}
 td {
-  border: 1px solid black;
+  width: 30px;
+  height: 30px;
+  border: 2px solid black;
+}
+.black {
+  background: black;
 }
